@@ -10,6 +10,7 @@ function App() {
     <div className='container1'>
       <h1>Feminicídio</h1>
       <h2>Entenda sobre o assunto</h2>
+      <h2>Caio Bucciarelli, Gabriel Vallejo e Vitor Musolino</h2>
       
       
     </div>
